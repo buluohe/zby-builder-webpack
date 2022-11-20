@@ -1,0 +1,40 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "type": "s",
+        "end_time": 1667836798,
+        "status": -2
+      },
+      {
+        "type": "d",
+        "end_time": -1,
+        "status": -1
+      },
+      {
+        "type": "q",
+        "end_time": -1,
+        "status": -1
+      }
+    ],
+    "tag": {
+      "has_first_auto_renewal_right": false,
+      "auto_renewable": 0,
+      "experience_pvip": false
+    },
+    "pvip": {
+      "is_paid": false,
+      "current": {
+        "pvip_type": 0,
+        "pvip_type_label": ""
+      },
+      "will": null
+    }
+  },
+  "error": {},
+  "extra": {
+    "cost": 0.027368523,
+    "request-id": "efc56fff77d745a19d028091171f8a57@2@time"
+  }
+}

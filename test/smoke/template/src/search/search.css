@@ -1,0 +1,12 @@
+.css-file {
+  background-color: red;
+  font-family: 'Alimama';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@font-face {
+  font-family: 'Alimama';
+  src: url('./assets/alimama.woff') format('truetype');
+}
